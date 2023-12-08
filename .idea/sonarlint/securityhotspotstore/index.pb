@@ -30,3 +30,9 @@ B
 tests/tredici.json,6/1/617de8cb3c31e8058b3691efd90600abb6e0faf7
 A
 tests/dodici.json,3/8/38481bfa71e29d27730554a269933daf4aa7c430
+R
+".github/workflows/hexlet-check.yml,8/3/8369295cf04737c94c8b5823ca5548a81771bc43
+K
+.github/workflows/README.md,4/3/43081045592ec20a825c7d95135da29851f3353f
+?
+tests/dududu.py,0/9/097b798d0f9b6cc88717c62b8e27e5e38a80589f
